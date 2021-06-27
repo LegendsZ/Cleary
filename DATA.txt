@@ -1,0 +1,3 @@
+C:\Windows\Prefetch
+C:\Users\Akkshai\AppData\Local\Temp
+C:\Windows\Temp
